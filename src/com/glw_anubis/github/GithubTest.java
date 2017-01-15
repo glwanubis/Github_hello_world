@@ -5,7 +5,7 @@ public class GithubTest {
 	public static void main(String[] args) {
 
 		System.out.println("The first github project!");
-		System.out.println("²âÊÔÔ­ÓĞÎÄ¼ş±»ĞŞ¸Ä");
+		System.out.println("æµ‹è¯•åŸæœ‰æ–‡ä»¶è¢«ä¿®æ”¹");
 	}
 
 }

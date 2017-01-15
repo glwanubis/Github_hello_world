@@ -4,7 +4,7 @@ public class GithubTest2 {
 
 	public static void main(String[] args) {
 
-		System.out.println("测试另一个客户端导入再上传github");
+		System.out.println("娴嬭瘯鍙︿竴涓鎴风瀵煎叆鍐嶄笂浼爂ithub");
 	}
 
 }
